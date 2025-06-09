@@ -24,7 +24,6 @@ Student Result Management System (SRMS)** is a desktop-based application designe
 | Frontend         | Python Tkinter     |
 | Backend          | Python 3.10+       |
 | Database         | SQLite3            |
-| Reporting        | PDF/Excel Export   |
 | Deployment       | Desktop-based      |
 -----------------------------------------
 
